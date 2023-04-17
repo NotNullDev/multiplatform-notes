@@ -5,6 +5,9 @@
     },
     {
       "path": "go"
+    },
+    {
+      "path": "flutter"
     }
   ],
   "settings": {}
